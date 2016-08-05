@@ -1,0 +1,31 @@
+_repo: Revolutionary-Heroes-and-Other-Historical-Papers_8154
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Parton, James
+    birthdate: 1822
+    deathdate: 1891
+    gutenberg_agent_id: '2129'
+    url: http://www.gutenberg.org/2009/agents/2129
+    wikipedia: http://en.wikipedia.org/wiki/James_Parton
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8154'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Biography'
+- !lcc 'E201'
+- GITenberg
+tableOfContents: General Joseph Warren -- Captain Nathan Hale, the martyr-spy -- General
+  Washington's other spies -- An historic Christmas night -- John Adams and the question
+  of independence -- Anecdotes of John Adams -- The writing and signing of the Declaration
+  of Independence -- Robert Morris, the financier of the Revolution -- John Jay, the
+  first Chief-Justice -- Fisher Ames, the orator of the Fourth Congress -- The Pinckneys
+  of South Carolina.
+title: Revolutionary Heroes, and Other Historical Papers
+url: http://www.gutenberg.org/ebooks/8154
